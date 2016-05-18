@@ -1,0 +1,40 @@
+{
+  "name": "blear.utils.bezier",
+  "version": "1.0.0",
+  "description": "blear.utils.bezier description",
+  "scripts": {
+    "live": "browser-sync start --config bs-config.js",
+    "test": "node ./node_modules/.bin/karma start --single-run --browsers PhantomJS --reporters progress"
+  },
+  "preferGlobal": false,
+  "bin": {},
+  "engines": {
+    "node": ">=1.0.0",
+    "iojs": ">=1.0.0"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com",
+    "url": "http://ydr.me"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/blearjs/blear.utils.bezier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blearjs/blear.utils.bezier"
+  },
+  "bugs": {
+    "url": "https://github.com/blearjs/blear.utils.bezier/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {
+
+  },
+  "license": "MIT"
+}
