@@ -1,7 +1,7 @@
 {
   "name": "blear.utils.bezier",
-  "version": "1.0.1",
-  "description": "blear.utils.bezier description",
+  "version": "1.0.2",
+  "description": "bezier utils",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
     "test": "node ./node_modules/.bin/karma start --single-run --browsers PhantomJS --reporters progress"
@@ -14,6 +14,9 @@
   },
   "main": "src/index.js",
   "keywords": [
+    "blear",
+    "utils",
+    "bezier",
     "cloudcome",
     "ydr.me"
   ],
