@@ -1,7 +1,7 @@
 {
-  "name": "blear.utils.bezier",
-  "version": "1.0.2",
-  "description": "bezier utils",
+  "name": "blear.shims.bezier",
+  "version": "1.0.0",
+  "description": "bezier shims",
   "scripts": {
     "live": "browser-sync start --config bs-config.js"
   },

@@ -1,1 +1,1 @@
-# blearjs.utils.bezier
+# blearjs.shims.bezier
